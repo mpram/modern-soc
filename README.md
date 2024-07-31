@@ -10,11 +10,31 @@
 
 
 ## Excersices 
-1. TBD
-2. TBD
+1. Open AI  & LLM - Fundamentals: 
+    * Prompting and tokens. 
+    * Hallucinations
+    * Models 
+    * AI Agents 
+    * Copilot 
+2. Deploying Open AI Architectures 
+    * What deployments teams are implementing? 
+    * Deployment E2E architecture
+    * Analyzing components 
+    * Thread modeling 
+3. Threat actors landscape for LLM 
+    * How threat actors are using LLM today 
+    * Jailbreaks and other tendencies/patterns 
+    * Microsoft AI Red Teams
+4. Protecting the Gen AI resources
+    * Defender for Cloud
+    * Microsoft Sentinel
+5. Copilot for Security
+    * Onboarding, plug ins.
+    * Use cases
+    * Extending Functionality
 
 ## Audience:
-This hands-on lab is by invitation only. It is lead by Cybersecurity teams at Microsoft(Global Black Belts, Technical Specialist and Cloud Solution Architects)
+This hands-on lab is by **invitation only**. It is lead by Cybersecurity teams at Microsoft(Global Black Belts, Technical Specialist and Cloud Solution Architects)
 Target Audience:
     Cybersecurity professionals interested on how LLM is changing today's landscape in terms of imeplementation, threads and defense mechanism.
 
